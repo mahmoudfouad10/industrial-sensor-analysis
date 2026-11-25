@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="Mahmoud Fouad" width="140">
-</p>
-
 # Industrial Sensor Data Analysis - Power BI
 
 An interactive Power BI dashboard analyzing industrial sensor readings with Pass/Fail quality outcomes.
@@ -24,8 +20,3 @@ An interactive Power BI dashboard analyzing industrial sensor readings with Pass
 
 - Power BI Desktop
 - DAX measures: Total Records, Total Pass, Total Fail, Pass Rate %, and Average/Maximum for Temperature, Pressure, Vibration, and Sensor_A
-
-## Files
-
-- `report.pbix` - the full Power BI report
-- `overview.jpg`, `deep-analysis.jpg` - Operations Overview and Sensor Deep Analysis page captures
